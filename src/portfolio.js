@@ -26,13 +26,13 @@ const greeting = {
     "I worked on Frontend projects with HTML5, CSS, Bootstrap, JavaScript, and ReactJS. Now, I’m growing as a MERN stack developer to handle backend work. I also have skills in Figma, Google Cloud, and UI development, helping me build seamless, user-friendly applications.",
   resumeLink:
     "https://drive.google.com/file/d/1VpVoFnTtPN_Iftt22tjaQpoB6tarQnav/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/KnowMohit/masterPortfolio",
+  githubProfile: "https://github.com/KnowMohit",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
+  // github: "https://github.com/KnowMohit",
   // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
   // gmail: "ashutoshhathidara98@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
