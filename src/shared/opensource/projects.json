@@ -2,46 +2,50 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/KnowMohit/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "AnonWell",
+      "createdAt": "2022",
+      "url": "https://github.com/KnowMohit/AnonWell",
+      "description": "Powered by MERN stack (MongoDB, Express.js, React, Node.js), our web app offers a safe space for anonymous mental health support.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Html5",
+          "iconifyClass": "logos-html-5"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Css3",
+          "iconifyClass": "simple-icons:css3"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/KnowMohit/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "Mark1",
+      "createdAt": "2023",
+      "url": "https://github.com/KnowMohit/Mark1",
+      "description": "Prototyping a pioneering device utilizing regenerative braking technology, coupled with an alternator and motor system, to harness sustainable energy.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "React.js",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "devicon-plain:nodejs-wordmark"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/KnowMohit/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "MyPorfolio",
+      "createdAt": "2024",
+      "url": "https://github.com/KnowMohit/MyPortfolio",
+      "description": "Developed a fully responsive web application using HTML5, CSS3, JavaScript, and Bootstrap, with a focus on delivering a seamless user experience across all devices.",
       "isFork": false,
       "languages": [
         {
@@ -58,65 +62,70 @@
         },
         {
           "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "iconifyClass": "simple-icons:react"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/KnowMohit/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "VaniVista",
+      "createdAt":"2022",
+      "url": "https://www.figma.com/design/irxsTH3WXc53gmMjEq1BdQ/VaniVista?node-id=278-2&node-type=frame&t=qC6s3krc8o6vWYk3-0",
+      "description": "VaniVista tackles language barriers, legal documentation, education gaps, cultural misunderstandings, and reliance on internet translations.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Flutter",
+          "iconifyClass": "simple-icons:flutter"
         },
+        
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Figma",
+          "iconifyClass": "simple-icons:figma"
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/KnowMohit/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "CoordSetu (Ongoing)",
+      "createdAt": "2024",
+      "url": "https://www.figma.com/design/bw0pKKTrUaFlZsurFJ1NpZ/CoordSetu?node-id=0-1&node-type=canvas&t=qC6s3krc8o6vWYk3-0",
+      "description": "In India's complex urban governance system, where multiple authorities often work in isolation, this digital platform offers a comprehensive solution to streamline inter-departmental cooperation and resource sharing.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "React.js",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "Figma",
+          "iconifyClass": "simple-icons:figma"
+        },
+        {
+          "name": "Solidity",
+          "iconifyClass": "simple-icons:solidity"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/KnowMohit/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "name": "EcoTrips (Ongoing)",
+      "createdAt": "2024",
+      "url": "https://www.figma.com/design/lEuLv2UIlJxYS2pv18wa6x/Ecotrips?node-id=0-1&t=CTjOeUeebusDhxJU-1",
+      "description": "We have identified a gap in the tourism industry where travelers are often overcharged for their dream vacations. Ecotrips is here to change that.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "React.js",
+          "iconifyClass": "simple-icons:react"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Figma",
+          "iconifyClass": "simple-icons:figma"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "devicon-plain:nodejs-wordmark"
         }
       ]
     }

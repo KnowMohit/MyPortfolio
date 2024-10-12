@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Mohit Om Goyal's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://knowmohit-portfolio.onrender.com/",
   },
 };
 
@@ -135,9 +135,9 @@ const skills = {
       title: "Web Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Frontend Development with HTML5, CSS3, JavaScript, and Bootstrap",
+        "⚡ Single-Page Application Development with React.js",
+        "⚡ Server-Side Development with Node.js and npm",
       ],
       softwareSkills: [
         {
@@ -286,7 +286,7 @@ const skills = {
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
+        "⚡ Experienced in creating detailed wireframes for Optimized User Interface Design",
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
@@ -386,9 +386,9 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "2021 - 2025",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Maintained a solid academic record with an overall CGPA of 8.5, demonstrating a strong understanding of core technical concepts and a commitment to excellence throughout all semesters.",
+        "⚡ Acquired a broad range of technical and soft skills, including problem-solving, teamwork, communication, and leadership, through hands-on projects and continuous learning.",
+        "⚡ Actively participated in multiple hackathons, showcasing innovative problem-solving and coding abilities. Selected for the prestigious IEEE YESIST'12 international event, highlighting global recognition of technical skills and creativity.",
       ],
     },
     {
@@ -398,9 +398,9 @@ const degrees = {
       alt_name: "Indiana University Bloomington",
       duration: "2020 - 2021",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ Achieved an impressive 92% in 12th grade from the CBSE board, demonstrating strong academic performance and a deep commitment to education.",
+        "⚡ Served as the head boy of the school, leading by example and managing various responsibilities with dedication. This role honed leadership skills, team coordination, and effective communication.",
+        "⚡ As head boy, took the initiative to volunteer in organizing and managing numerous cultural events, further developing organizational skills, event planning, and the ability to work under pressure.",
       ],
     },
     {
@@ -410,9 +410,9 @@ const degrees = {
       alt_name: "Indiana University Bloomington",
       duration: "2018 - 2019",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ Secured a commendable 90% in 10th grade from the CBSE board, reflecting a solid academic foundation and a disciplined approach to studies.",
+        "⚡ Held the position of Discipline Head in school, taking charge of maintaining order and setting a positive example for peers. This role sharpened leadership skills, responsibility, and decision-making.",
+        "⚡ During this time, significantly enhanced communication abilities by interacting with students, teachers, and staff, building confidence and fostering effective dialogue in leadership settings.",
       ],
     },
   ],
@@ -532,7 +532,7 @@ const experience = {
   title: "Experience",
   subtitle: "Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well-established companies mostly as AI Developer. I love organizing events, and that is why I am also involved with many open-source communities as a representative.",
+    "Gained valuable exposure to the corporate environment through two internships focused on frontend development and UI design. These experiences helped refine technical skills and provided insight into real-world application of design principles.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -567,32 +567,29 @@ const experience = {
       experiences: [
         {
           title: "E-Cell",
-          company: "Maharishi Markandeshwar Deemed to be University",
+          company: "MMDU",
           logo_path: "MMU-AMBALA-LOGO-removebg-preview.png",
           duration: "Jun 2022 - Aug 2023",
           location: "Mullana, Ambala",
-          description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build open-source projects under this program.",
+          description: "",
           color: "#4285F4",
         },
         {
           title: "HackaVersuMM'22",
-          company: "Maharishi Markandeshwar Deemed to be University",
+          company: "MMDU",
           logo_path: "MMU-AMBALA-LOGO-removebg-preview.png",
           duration: "Aug 2022 - Sep 2022",
           location: "Mullana, Ambala",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud, especially Azure tools, in the development of their projects and startups. Under this program, I have organized hands-on workshops and seminars to teach Cloud Computing concepts to students.",
+          description: "",
           color: "#D83B01",
         },
         {
           title: "AIU'23",
-          company: "Maharishi Markandeshwar Deemed to be University",
+          company: "MMDU",
           logo_path: "MMU-AMBALA-LOGO-removebg-preview.png",
           duration: "Mar 2023 - May 2023",
           location: "Mullana, Ambala",
-          description:
-            "My responsibility for this program was to create an open-source environment in college and in the city. We organized multiple hackathons based on problems collected by ordinary people from Kurnool city. We built an open-source community in our college, available at dsc_iiitdmk on GitHub.",
+          description: "",
           color: "#000000",
         },
       ],
@@ -604,7 +601,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Most of my projects have revolved around web development, primarily focusing on frontend work and UI/UX design, where I’ve gained strong skills in building responsive and user-friendly interfaces.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -646,7 +643,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every Platform. You can message me, I will reply within 24 hours. I can help you with Web Deevelopment as well as UI/UX Designing.",
+      "I am available on almost every Platform. You can message me, I will reply within 24 hours. I can help you with Web Development as well as UI/UX Designing.",
   },
   blogSection: {
     title: "Blogs",
